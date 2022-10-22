@@ -1,11 +1,8 @@
 # Biografia 
-
-
-
 - 👋 Hi, I’m @Melouzinho6
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in learning
+- 🌱 I’m speaking english
+- 💞️ I’m looking to collaborate on alone
 - 📫 How to reach me ...
 
 <!---
